@@ -1,0 +1,95 @@
+{
+  "projects": {
+    "Willow": {
+      "image": "projects/mobile/willow.webp",
+      "title": "Willow",
+      "order": "01",
+      "categories": ["STRATEGY", "ANIMATION"],
+      "date": "JUNE—23’"
+    },
+    "Salesforce": {
+      "image": "projects/mobile/salesforce.webp",
+      "title": "Salesforce",
+      "order": "02",
+      "categories": ["STRATEGY", "ANIMATION", "EVENTS IN MOTION", "UX/UI"],
+      "date": "JUNE—23’"
+    },
+    "Docusign24": {
+      "image": "projects/mobile/docusign24.webp",
+      "title": "Docusign 24",
+      "order": "03",
+      "categories": ["BRANDING", "EVENTS IN MOTION", "ANIMATION", "UX/UI"],
+      "date": "JUNE—23’"
+    },
+    "7Studio": {
+      "image": "projects/mobile/7studio.webp",
+      "title": "7 Studio",
+      "order": "04",
+      "categories": ["STRATEGY", "BRANDING"],
+      "date": "JUNE—23’"
+    },
+    "Google": {
+      "image": "projects/mobile/google.webp",
+      "title": "Google",
+      "order": "05",
+      "categories": ["ANIMATION"],
+      "date": "JULY—23’"
+    },
+    "DpWorld": {
+      "image": "projects/mobile/dpworld.webp",
+      "title": "DP WORLD",
+      "order": "06",
+      "categories": ["ANIMATION", "EVENTS IN MOTION"],
+      "date": "JUNE—23’"
+    },
+    "Synapse": {
+      "image": "projects/mobile/synapse.webp",
+      "title": "Synapse",
+      "order": "07",
+      "categories": ["STRATEGY", "BRANDING"],
+      "date": "JULY—23’"
+    },
+    "Docusign23": {
+      "image": "projects/mobile/docusign23.webp",
+      "title": "Docusign 23",
+      "order": "08",
+      "categories": ["STRATEGY", "ANIMATION", "EVENTS IN MOTION", "UX/UI"],
+      "date": "JUNE—23’"
+    },
+    "Penta": {
+      "image": "projects/mobile/penta.webp",
+      "title": "Penta",
+      "order": "09",
+      "categories": ["STRATEGY", "BRANDING", "ANIMATION"],
+      "date": "JULY—23’"
+    },
+    "TheSandbox": {
+      "image": "projects/mobile/thesandbox.webp",
+      "title": "The Sandbox",
+      "order": "10", 
+      "categories": ["BRANDING", "ANIMATION"],
+      "date": "JULY—23’"
+    },
+    "Decoded": {
+      "image": "projects/mobile/decoded.webp",
+      "title": "Decoded",
+      "order": "11",
+      "categories": ["ANIMATION", "EVENTS IN MOTION"],
+      "date": "JULY—23’"
+    },
+    "OldGlory": {
+      "image": "projects/mobile/oldglory.webp",
+      "title": "Old Glory",
+      "order": "12",
+      "categories": ["ANIMATION", "BRANDING", "STRATEGY", "UX/UI & DEVELOPMENT"],
+      "date": "JULY—23’"
+    },
+    "17Sigma": {
+      "image": "projects/mobile/17Sigma.webp",
+      "title": "17 Sigma",
+      "order": "13",
+      "categories": ["BRANDING", "UX/UI DEVELOPMENT"],
+      "date": "JULY—23’"
+    }
+  }
+}
