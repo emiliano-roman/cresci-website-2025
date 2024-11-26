@@ -272,7 +272,7 @@
 
 <script>
 export default {
-  name: 'campTurboProject'
+  name: 'CampTurboProject'
 };
 </script>
 

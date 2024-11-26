@@ -36,7 +36,7 @@ import { pageTransition, updateHeaderTheme, cursorMagic, animationsEfx } from '.
 import { gsap } from 'gsap';
 import projectData from '../../assets/projectsList.json'; 
 import { markRaw } from 'vue';
-import campTurboProject from './campTurboProject.vue';
+import CampTurboProject from './CampTurboProject.vue';
 import Docusign24Project from './Docusign24Project.vue';
 import Studio7Project from './Studio7Project.vue'; 
 import GoogleProject from './GoogleProject.vue';
@@ -61,7 +61,7 @@ export default {
       project: {},
       loading: true, // Estado de carga
       projectComponents: {
-        'campTurbo': markRaw(campTurboProject),
+        'CampTurbo': markRaw(CampTurboProject),
         'Docusign24': markRaw(Docusign24Project),
         '7Studio': markRaw(Studio7Project),
         'Google': markRaw(GoogleProject),

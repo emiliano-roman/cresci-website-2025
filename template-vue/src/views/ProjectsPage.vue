@@ -15,7 +15,7 @@
               <!-- Begin swiper slide -->
               <div class="swiper-slide" data-url="/projects/campTurbo" data-title="CAMP TURBO" data-category="BRANDING" data-date="OCT 24" data-ol="01">
                 <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
-                    <figure id="linkItem" data-href="/projects/campTurbo" data-cursor-project="View Project">
+                    <figure id="linkItem" data-href="/projects/CampTurbo" data-cursor-project="View Project">
                     <img src="projects/campTurbo.webp" data-src="projects/campTurbo.webp" alt="Crescis - Camp Turbo">
                     </figure>
                 </div> <!-- /.cs-slider-item -->
