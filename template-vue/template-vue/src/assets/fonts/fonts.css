@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Aeonik_OVERVIEW';
+    src: url('Aeonik_OVERVIEW-Regular.eot');
+    src: url('Aeonik_OVERVIEW-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Aeonik_OVERVIEW-Regular.woff2') format('woff2'),
+        url('Aeonik_OVERVIEW-Regular.woff') format('woff'),
+        url('Aeonik_OVERVIEW-Regular.ttf') format('truetype'),
+        url('Aeonik_OVERVIEW-Regular.svg#Aeonik_OVERVIEW-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik';
+    src: url('Aeonik-Medium.eot');
+    src: url('Aeonik-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Aeonik-Medium.woff2') format('woff2'),
+        url('Aeonik-Medium.woff') format('woff'),
+        url('Aeonik-Medium.ttf') format('truetype'),
+        url('Aeonik-Medium.svg#Aeonik-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aeonik_Variable';
+    src: url('Aeonik_Variable-Regular.eot');
+    src: url('Aeonik_Variable-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Aeonik_Variable-Regular.woff2') format('woff2'),
+        url('Aeonik_Variable-Regular.woff') format('woff'),
+        url('Aeonik_Variable-Regular.ttf') format('truetype'),
+        url('Aeonik_Variable-Regular.svg#Aeonik_Variable-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

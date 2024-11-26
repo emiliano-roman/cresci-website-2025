@@ -137,8 +137,8 @@
   <div class="cs-section-inner">
   <div class="cs-row">
   
-  <div class="cs-col-lg-7 margin-left-auto padding-right-lg-200">
-    <div class="text-description text-white ">
+  <div class="cs-col-lg-6 margin-left-auto padding-right-lg-150">
+    <div class="line-height-4 text-white">
       <p>We’ve crafted content to drive season ticket sales, inviting fans to immerse themselves in the electrifying atmosphere of live rugby. </p>
       <p>This campaign highlights the unmatched thrill of match days, offering a memorable experience that extends beyond the game.</p>
     </div>
@@ -252,8 +252,8 @@
   <div class="cs-section-inner">
   <div class="cs-row">
   
-  <div class="cs-col-lg-7 margin-left-auto padding-right-lg-200">
-    <div class="text-description text-white ">
+  <div class="cs-col-lg-6 margin-left-auto padding-right-lg-150">
+    <div class="line-height-4 text-white">
       <p>A campaign that announced the launch of the team’s new kit, framed by the concept ‘our values are embedded in our fabrics.’ We aimed to capture the essence of embodying the team’s spirit through its colors and values.</p>
       <p>Engaging social media content was created to spotlight this new collection and drive traffic to the Old Glory shop.</p>
     </div>
@@ -406,8 +406,8 @@
   <div class="cs-section-inner">
   <div class="cs-row">
   
-  <div class="cs-col-lg-7 margin-left-auto padding-right-lg-200">
-    <div class="text-description text-white ">
+  <div class="cs-col-lg-6 margin-left-auto padding-right-lg-150">
+    <div class="line-height-4 text-white">
       <p>A graphic campaign was implemented in the DC Metro to highlight that Metro DC offers easy access to Old Glory’s Segra Field Stadium. </p>
       <p>The campaign aimed to attract fans to live matches with compelling visuals and a concise, direct message, enhanced by a QR code for straightforward ticket purchases.</p>
     </div>
@@ -520,8 +520,8 @@
   <div class="cs-section-inner">
   <div class="cs-row">
   
-  <div class="cs-col-lg-7 margin-left-auto padding-right-lg-200">
-    <div class="text-description text-white ">
+  <div class="cs-col-lg-6 margin-left-auto padding-right-lg-150">
+    <div class="line-height-4 text-white">
       <p>We undertook a redesign of the brand’s website to enhance user interaction and streamline the navigation of its extensive content.</p> 
       <p>Custom calendar widgets were also developed to deliver real-time match results, simplifying ticket access and improving the overall user experience, resulting in a boost in sales. </p>
     </div>
@@ -630,5 +630,5 @@
   figure video {
   width: 100%;
   }
-  .bg-blue {background-color: #003058}.bg-grey {background-color: #F3F3F3}.z1-09_1 {position: absolute;z-index: 1;margin: auto;width: 40vw;left: 0;right: 0;} .z1-09_1 video {box-shadow: -5px 13px 20px -8px #000000b5;} .cols-rl-inner .col-inner-1 {width: 51%;display: flex;}.col-inner-1 figure {margin: auto;}.cols-rl-inner .col-inner-2 {width: 49%;padding-left: 5px;height: 100%;display: flex;}.cols-rl-inner .col-inner-2 figure{height: 100%;display: flex;}.title-section-og {color: #003058;padding: 0 1.5%;align-items: center;gap: 6vw;font-size: 1.414rem;}.title-section-og>div:nth-child(3n) {margin-left: 15vw;}.title-section-og-2 {color: #fff;padding: 0 1.5%;align-items: center;gap: 6vw;font-size: 1.414rem;}.title-start {font-size: 1.314rem;margin: 0}
+  .bg-blue {background-color: #003058}.bg-grey {background-color: #F3F3F3}.z1-09_1 {position: absolute;z-index: 1;margin: auto;width: 40vw;left: 0;right: 0;} .z1-09_1 video {box-shadow: -5px 13px 20px -8px #000000b5;} .cols-rl-inner .col-inner-1 {width: 51%;display: flex;}.col-inner-1 figure {margin: auto;}.cols-rl-inner .col-inner-2 {width: 49%;padding-left: 5px;height: 100%;display: flex;}.cols-rl-inner .col-inner-2 figure{height: 100%;display: flex;}.title-section-og {color: #003058;padding: 0 1.5%;align-items: center;gap: 6vw;font-size: 1.414rem;}.title-section-og>div:nth-child(3n) {margin-left: 13vw;}.title-section-og-2 {color: #fff;padding: 0 1.5%;align-items: center;gap: 6vw;font-size: 1.414rem;}.title-start {font-size: 1.314rem;margin: 0}
   </style>

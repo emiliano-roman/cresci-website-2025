@@ -11,8 +11,20 @@
           <!-- Begin swiper wrapper (required) -->
           <div class="swiper-wrapper">
 
+
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="https://cresci.co/willow/" data-title="WILLOW" data-category="STRATEGY | ANIMATION" data-date="Jul 23" data-ol="01">
+              <div class="swiper-slide" data-url="/projects/campTurbo" data-title="CAMP TURBO" data-category="BRANDING" data-date="OCT 24" data-ol="01">
+                <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
+                    <figure id="linkItem" data-href="/projects/campTurbo" data-cursor-project="View Project">
+                    <img src="projects/campTurbo.webp" data-src="projects/campTurbo.webp" alt="Crescis - Camp Turbo">
+                    </figure>
+                </div> <!-- /.cs-slider-item -->
+              </div>
+              <!-- End swiper slide -->
+
+
+              <!-- Begin swiper slide -->
+              <div class="swiper-slide" data-url="https://cresci.co/willow/" data-title="WILLOW" data-category="STRATEGY | ANIMATION" data-date="JUL 23" data-ol="02">
                 <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                     <figure id="linkItem" data-href="https://cresci.co/willow/" data-cursor-project="View Project">
                     <img src="projects/willow.webp" data-src="projects/willow.webp" alt="Crescis - Willow">
@@ -23,7 +35,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="https://cresci.co/salesforce/" data-title="SALESFORCE" data-category="STRATEGY | ANIMATION | EVENTS IN MOTION | UX/UI" data-date="Jul 23" data-ol="02">
+              <div class="swiper-slide" data-url="https://cresci.co/salesforce/" data-title="SALESFORCE" data-category="STRATEGY | ANIMATION | EVENTS IN MOTION | UX/UI" data-date="JUL 23" data-ol="03">
                 <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                     <figure id="linkItem" data-href="https://cresci.co/salesforce/" data-cursor-project="View Project">
                     <img src="projects/salesforce.webp" data-src="projects/salesforce.webp" alt="Crescis - Salesforce">
@@ -33,7 +45,7 @@
               <!-- End swiper slide -->
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/Docusign24" data-title="DOCUSIGN 24" data-category="BRANDING | EVENTS IN MOTION | ANIMATION | UX/UI" data-date="Jul 23" data-ol="03">
+              <div class="swiper-slide" data-url="/projects/Docusign24" data-title="DOCUSIGN 24" data-category="BRANDING | EVENTS IN MOTION | ANIMATION | UX/UI" data-date="JUL 23" data-ol="04">
                 <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                     <figure id="linkItem" data-href="/projects/Docusign24" data-cursor-project="View Project">
                     <img src="projects/docusign24.webp" data-src="projects/docusign24.webp" alt="Crescis - Docusign">
@@ -43,7 +55,7 @@
               <!-- End swiper slide -->
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/7Studio" data-title="7 STUDIO" data-category="STRATEGY | BRANDING" data-date="Jul 23" data-ol="04">
+              <div class="swiper-slide" data-url="/projects/7Studio" data-title="7 STUDIO" data-category="STRATEGY | BRANDING" data-date="JUL 23" data-ol="05">
               <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                   <figure id="linkItem" data-href="/projects/7Studio" data-cursor-project="View Project">
                   <img src="projects/7-studio.webp" data-src="projects/7-studio.webp" alt="Crescis - 7Studio">
@@ -53,7 +65,7 @@
               <!-- End swiper slide -->
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/Google" data-title="GOOGLE" data-category="ANIMATION" data-date="Jul 23" data-ol="05">
+              <div class="swiper-slide" data-url="/projects/Google" data-title="GOOGLE" data-category="ANIMATION" data-date="JUL 23" data-ol="06">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/Google" data-cursor-project="View Project">
                         <img src="projects/google.webp" data-src="projects/google.webp" alt="Crescis - Google">
@@ -64,7 +76,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/DpWorld" data-title="DP WORLD" data-category="ANIMATION | EVENTS IN MOTION"   data-date="Jul 23" data-ol="06">
+              <div class="swiper-slide" data-url="/projects/DpWorld" data-title="DP WORLD" data-category="ANIMATION | EVENTS IN MOTION"   data-date="JUL 23" data-ol="07">
                 <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                     <figure id="linkItem" data-href="/projects/DpWorld" data-cursor-project="View Project">
                     <img src="projects/dpworld.webp" data-src="projects/dpworld.webp" alt="Crescis - Dp World">
@@ -75,7 +87,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/Synapse" data-title="SYNAPSE" data-category="STRATEGY | BRANDING" data-date="Jul 23" data-ol="07">
+              <div class="swiper-slide" data-url="/projects/Synapse" data-title="SYNAPSE" data-category="STRATEGY | BRANDING" data-date="JUL 23" data-ol="08">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/Synapse" data-cursor-project="View Project">
                         <img src="projects/synapse.webp" data-src="projects/synapse.webp" alt="Crescis - Synapse">
@@ -86,7 +98,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/Docusign23" data-title="DOCUSIGN 23’" data-category="STRATEGY | ANIMATION | EVENTS IN MOTION | UX/UI" data-date="Jul 23" data-ol="08">
+              <div class="swiper-slide" data-url="/projects/Docusign23" data-title="DOCUSIGN 23’" data-category="STRATEGY | ANIMATION | EVENTS IN MOTION | UX/UI" data-date="JUL 23" data-ol="09">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/Docusign23" data-cursor-project="View Project">
                         <img src="projects/docusign23.webp" data-src="projects/docusign23.webp" alt="Crescis - Docusign">
@@ -97,7 +109,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/Penta" data-title="PENTA" data-category="STRATEGY | BRANDING | ANIMATION" data-date="Jul 23" data-ol="09">
+              <div class="swiper-slide" data-url="/projects/Penta" data-title="PENTA" data-category="STRATEGY | BRANDING | ANIMATION" data-date="JUL 23" data-ol="10">
               <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                   <figure id="linkItem" data-href="/projects/Penta" data-cursor-project="View Project">
                   <img src="projects/penta.webp" data-src="projects/penta.webp" alt="Crescis - Penta">
@@ -108,7 +120,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/TheSandbox" data-title="THE SANDBOX" data-category="BRANDING | ANIMATION" data-date="Jul 23" data-ol="10">
+              <div class="swiper-slide" data-url="/projects/TheSandbox" data-title="THE SANDBOX" data-category="BRANDING | ANIMATION" data-date="JUL 23" data-ol="11">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/TheSandbox" data-cursor-project="View Project">
                         <img src="projects/thesandbox.webp" data-src="projects/thesandbox.webp" alt="Crescis - The Sandbox">
@@ -119,7 +131,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/Decoded" data-title="DECODED" data-category="ANIMATION | EVENTS IN MOTION" data-date="Jul 23" data-ol="11">
+              <div class="swiper-slide" data-url="/projects/Decoded" data-title="DECODED" data-category="ANIMATION | EVENTS IN MOTION" data-date="JUL 23" data-ol="12">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/Decoded" data-cursor-project="View Project">
                         <img src="projects/decoded.webp" data-src="projects/decoded.webp" alt="Crescis - Decoded">
@@ -130,7 +142,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/OldGlory" data-title="OLD GLORY" data-category="ANIMATION | BRANDING | STRATEGY | UX/UI & DEVELOPMENT" data-date="Jul 23" data-ol="12">
+              <div class="swiper-slide" data-url="/projects/OldGlory" data-title="OLD GLORY" data-category="ANIMATION | BRANDING | STRATEGY | UX/UI & DEVELOPMENT" data-date="JUL 23" data-ol="13">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/OldGlory" data-cursor-project="View Project">
                         <img src="projects/oldglory.webp" data-src="projects/oldglory.webp" alt="Crescis - Old Glory">
@@ -142,7 +154,7 @@
 
 
               <!-- Begin swiper slide -->
-              <div class="swiper-slide" data-url="/projects/17Sigma" data-title="17SIGMA" data-category="BRANDING | UX/UI DEVELOPMENT" data-date="Jul 23" data-ol="13">
+              <div class="swiper-slide" data-url="/projects/17Sigma" data-title="17SIGMA" data-category="BRANDING | UX/UI DEVELOPMENT" data-date="JUL 23" data-ol="14">
                   <div class="cs-portfolio-slider-item" data-swiper-parallax="50%">
                       <figure id="linkItem" data-href="/projects/17Sigma" data-cursor-project="View Project">
                         <img src="projects/17Sigma.webp" data-src="projects/17Sigma.webp" alt="Crescis - 17Sigma">

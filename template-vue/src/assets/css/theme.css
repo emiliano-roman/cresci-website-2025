@@ -248,7 +248,7 @@ body.cs-transition-in .ptr-prel-content  {
     text-transform: uppercase
 }
 .loader__wrap {
-    /* perspective: 32rem; */
+    perspective: 32rem;
     z-index: -1;
     height: 150px;
 }

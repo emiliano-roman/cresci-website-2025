@@ -18,7 +18,7 @@
                           <div>R<span><svg class="simbol-l" width="7" height="16" viewBox="0 0 7 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M5.87127 0H0.410131C0.183625 0 0 0.188073 0 0.420072V15.5427C0 15.7747 0.183625 15.9628 0.410131 15.9628H5.87127C6.09778 15.9628 6.2814 15.7747 6.2814 15.5427V0.420072C6.2814 0.188073 6.09778 0 5.87127 0Z" fill="white"/></svg></span></div>
                         </div>
                       </div>
-                      <span class="loader__title"><img data-src="assets/logo-light.svg" class="cs-logo-white magnetic-item" alt="Cresci's"></span>
+                      <span class="loader__title"><img data-src="assets/logo-light.svg" alt="Cresci's"></span>
                   </div>
               </div>
           </div>

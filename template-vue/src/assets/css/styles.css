@@ -1041,13 +1041,13 @@ section.panel-exp_:nth-child(5) {
 
 .cs-caption-ol {
     overflow: hidden;
-    font-size: calc(1.214rem + 0.1vw);
+    font-size: calc(1.314rem + 0.1vw);
     position: absolute;
     left: calc(100vw - 95vw);
     bottom: calc(100vh - 122vh);
 }
 .cs-ps-caption-ol {
-    font-size: calc(1.214rem + 0.1vw);
+    font-size: calc(1.314rem + 0.1vw);
     margin: 0;
 }
 
@@ -1060,7 +1060,7 @@ section.panel-exp_:nth-child(5) {
 }
 .cs-caption-date h5 {
     margin: 0;
-    font-size: calc(1.514rem + 0.1vw);
+    font-size: calc(1.314rem + 0.1vw);
 }
 
 figure image, figure video {

@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# cresci-website-2025
+Theme Online - make in Vue.js
+=======
 # template-vue
 
 ## Project setup
@@ -22,3 +26,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> 72cac89 (Initial commit)

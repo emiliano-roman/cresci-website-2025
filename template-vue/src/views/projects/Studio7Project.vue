@@ -183,18 +183,18 @@
 
 
 
-<div class="cs-section padding-top-10 padding-bottom-10 bg-cream">
+<div class="cs-section padding-top-5 padding-bottom-5 bg-cream">
   <div class="cs-section-inner">
     <div class="cs-row">
 
-      <div class="cs-col-lg-6 no-padding-left padding-right-5">
+      <div class="cs-col-lg-6 no-padding-left padding-right-3">
         <figure>
           <img src="projects/7studio/08-1.webp" data-src="projects/7studio/08-1.webp" alt="Crescis - 7 Studio">
         </figure>
         <!-- End cs-Heading -->
       </div>
 
-      <div class="cs-col-lg-6 no-padding-right padding-left-5">
+      <div class="cs-col-lg-6 no-padding-right padding-left-3">
         <figure>
           <img src="projects/7studio/08-2.webp" data-src="projects/7studio/08-2.webp" class="display-block"  alt="Crescis - 7 Studio">
         </figure>
@@ -237,14 +237,14 @@
   <div class="cs-section-inner">
     <div class="cs-row">
 
-      <div class="cs-col-lg-6 no-padding-left padding-right-5">
+      <div class="cs-col-lg-6 no-padding-left padding-right-3">
         <figure>
           <img src="projects/7studio/10-1.webp" data-src="projects/7studio/10-1.webp" class="display-block" alt="Crescis - 7 Studio">
         </figure>
         <!-- End cs-Heading -->
       </div>
 
-      <div class="cs-col-lg-6 no-padding-right padding-left-5">
+      <div class="cs-col-lg-6 no-padding-right padding-left-3">
         <figure>
           <img src="projects/7studio/10-2.webp" data-src="projects/7studio/10-2.webp" class="display-block"  alt="Crescis - 7 Studio">
         </figure>
@@ -261,7 +261,7 @@
 
 
 
-<div class="cs-section padding-top-5 padding-bottom-5 bg-cream">
+<div class="cs-section no-padding-top padding-bottom-5 bg-cream">
   
   <div class="cs-section-inner">
     <div class="cs-row">
@@ -281,7 +281,7 @@
 
 
 
-<div class="cs-section padding-top-xlg-200 padding-bottom-xlg-200 bg-white">
+<div class="cs-section padding-top-xlg-200 padding-bottom-xlg-200 bg-cream-dark">
   
   <div class="cs-section-inner">
     <div class="cs-row">
@@ -306,19 +306,19 @@
 
 
 
-<div class="cs-section padding-top-5 padding-bottom-5 bg-cream">
+<div class="cs-section padding-top-5 no-padding-bottom bg-cream">
   
   <div class="cs-section-inner">
     <div class="cs-row">
 
-      <div class="col-flex_1 no-padding-left padding-right-5">
+      <div class="col-flex_1 no-padding-left padding-right-3">
         <figure>
           <img src="projects/7studio/13-1.webp" data-src="projects/7studio/13-1.webp" class="display-block" alt="Crescis - 7 Studio">
         </figure>
         <!-- End cs-Heading -->
       </div>
 
-      <div class="col-flex_2 no-padding-right padding-left-5">
+      <div class="col-flex_2 no-padding-right padding-left-3">
         <figure>
           <img src="projects/7studio/13-2.webp" data-src="projects/7studio/13-2.webp" class="display-block"  alt="Crescis - 7 Studio">
         </figure>
@@ -334,7 +334,7 @@
 
 
 
-<div class="cs-section padding-top-5 padding-bottom-5 bg-cream">
+<div class="cs-section padding-top-5 no-padding-bottom bg-cream">
   
   <div class="cs-section-inner">
     <div class="cs-row">
@@ -354,19 +354,19 @@
 
 
 
-<div class="cs-section padding-top-5 padding-bottom-5 bg-cream">
+<div class="cs-section padding-top-5 no-padding-bottom bg-cream">
   
   <div class="cs-section-inner">
     <div class="cs-row">
 
-      <div class="cs-col-lg-6 no-padding-left padding-right-5">
+      <div class="cs-col-lg-6 no-padding-left padding-right-3">
         <figure>
           <img src="projects/7studio/15-1.webp" data-src="projects/7studio/15-1.webp" class="display-block" alt="Crescis - 7 Studio">
         </figure>
         <!-- End cs-Heading -->
       </div>
 
-      <div class="cs-col-lg-6 no-padding-right padding-left-5">
+      <div class="cs-col-lg-6 no-padding-right padding-left-3">
         <figure>
             <video autoplay playsinline muted loop>
               <source data-src="projects/7studio/15-2.webm" type="video/webm">
@@ -480,5 +480,5 @@ export default {
 figure video {
     width: 100%;
 }
-.bg-blue {background-color: #0058FF}.bg-cream {background-color: #F5F5F5}.s2-img-1 {width: 60vw}.s4-img-1 {width: 80vw}.col-flex_1 {width: 42.5%}.col-flex_2 {width: 57%}.title-start {font-size: 1.314rem;margin: 0;line-height: 1.114}.text-description {line-height: 1.4}
+.bg-blue {background-color: #0058FF}.bg-cream {background-color: #F5F5F5}.bg-cream-dark {background-color: #f9f7f0}.s2-img-1 {width: 60vw}.s4-img-1 {width: 80vw}.col-flex_1 {width: 42.5%}.col-flex_2 {width: 57%}.title-start {font-size: 1.314rem;margin: 0;line-height: 1.114}.text-description {line-height: 1.4}
 </style>

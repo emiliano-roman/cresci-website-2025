@@ -37,8 +37,8 @@
                     <div class="cs-col-lg-9 margin-left-auto">
                         <div class="panel-image padding-bottom-30">
                             <video class="anim-zoomin" autoplay loop muted preload="metadata">
+                                <source data-src="expertise/Strategy.mp4" type="video/mp4">                                
                                 <source data-src="expertise/Strategy.webm" type="video/webm">
-                                <source data-src="expertise/Strategy.mp4" type="video/mp4">
                             </video>
                         </div>
                         <div class="panel-text">
@@ -62,9 +62,9 @@
                 <div class="cs-row">
                     <div class="cs-col-lg-9 margin-left-auto">
                         <div class="panel-image padding-bottom-30">
-                            <video class="anim-zoomin" autoplay loop muted preload="metadata">
-                                <source data-src="expertise/Branding.webm" type="video/webm">
+                            <video autoplay loop muted preload="metadata">
                                 <source data-src="expertise/Branding.mp4" type="video/mp4">
+                                <source data-src="expertise/Branding.webm" type="video/webm">
                             </video>
                         </div>
                         <div class="panel-text">
@@ -87,9 +87,9 @@
                 <div class="cs-row">
                     <div class="cs-col-lg-9 margin-left-auto">
                         <div class="panel-image padding-bottom-30">
-                            <video class="anim-zoomin" autoplay loop muted preload="metadata">
-                                <source data-src="expertise/Animation.webm" type="video/webm">
+                            <video autoplay loop muted preload="metadata">
                                 <source data-src="expertise/Animation.mp4" type="video/mp4">
+                                <source data-src="expertise/Animation.webm" type="video/webm">
                             </video>
                         </div>
                         <div class="panel-text">
@@ -113,9 +113,9 @@
                 <div class="cs-row">
                     <div class="cs-col-lg-9 margin-left-auto">
                         <div class="panel-image padding-bottom-30">
-                            <video class="anim-zoomin" autoplay loop muted preload="metadata">
-                                <source data-src="expertise/Events_in_motion.webm" type="video/webm">
+                            <video autoplay loop muted preload="metadata">
                                 <source data-src="expertise/Events_in_motion.mp4" type="video/mp4">
+                                <source data-src="expertise/Events_in_motion.webm" type="video/webm">
                             </video>
                         </div>
                         <div class="panel-text">
@@ -140,8 +140,9 @@
                 <div class="cs-row">
                     <div class="cs-col-lg-9 margin-left-auto">
                         <div class="panel-image padding-bottom-30">
-                            <video class="anim-zoomin" autoplay loop muted preload="metadata">
+                            <video autoplay loop muted preload="metadata">
                                 <source data-src="expertise/Interactive_ux-ui.mp4" type="video/mp4">
+                                <source data-src="expertise/Interactive_ux-ui.webm" type="video/webm">
                             </video>
                         </div>
                         <div class="panel-text">
